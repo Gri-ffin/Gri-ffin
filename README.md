@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+
+![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=Gri-ffin&show_icons=true)
+
+</h1>
 
 <!--
 **Gri-ffin/Gri-ffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
