@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Gri-ffin)
+
 <h1 align="center">
 
 ![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=Gri-ffin&show_icons=true&hide=stars&count_private=true)
