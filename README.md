@@ -1,6 +1,7 @@
 <h1 align="center">
 
 ![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=Gri-ffin&show_icons=true&hide=stars&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Gri-ffin&theme=gruvbox&column=3&margin-w=15)
 
 </h1>
 
