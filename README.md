@@ -75,7 +75,7 @@
     />
     <br/>
     <img
-      src="shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js"
+      src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.jss"
     />
      <img
       src="https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react"
