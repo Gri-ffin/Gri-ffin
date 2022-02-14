@@ -61,6 +61,9 @@
     <img
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     />
+    <img
+      src="https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white"
+    />
  </div>
   <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 </body>
