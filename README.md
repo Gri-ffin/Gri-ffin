@@ -61,7 +61,15 @@
     <img
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     /><br />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    ![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white)
+    ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3a2854?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
+    ![Tailwind](https://img.shields.io/badge/-Tailwind-4600F1?style=for-the-badge&logo=tailwindcss)
+    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+    ![React](https://img.shields.io/badge/-React-3d6f80?style=for-the-badge&logo=react)\
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0060a1?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+    ![MySQL](https://img.shields.io/badge/-MySQL-DB7D00?style=for-the-badge&logo=mysql)
  </div>
   <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 </body>
