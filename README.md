@@ -4,7 +4,7 @@
 
 </h1>
 
-![:name](https://count.getloli.com/get/@:lagfruit)
+![:name](https://count.getloli.com/get/@:gri-ffin)
 
 <!--
 **Gri-ffin/Gri-ffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
