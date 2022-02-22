@@ -63,7 +63,7 @@
     />
     <img
       src="https://img.shields.io/badge/-Docker-46A2F1?style=for-the-badge&logo=docker&logoColor=white"
-    />
+    /><br />
     <img
       src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&"
     />
