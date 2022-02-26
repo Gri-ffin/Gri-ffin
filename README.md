@@ -13,7 +13,7 @@
     <b>Loves:</b> Anime, Manga, Coding and games 
     </li>
     <li>
-    <b>Hobbys:</b> Tech Stuff, Web Development, DevOps, Breaking Stuff 😛
+    <b>Hobbys:</b> Tech Stuff, Web Development, DevOps, Breaking Stuff
     </li>
     <li>
     <b>Job:</b> Studying at school ¯\_(ツ)_/¯
