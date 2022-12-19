@@ -8,7 +8,7 @@
   <div>
     <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>  
     <li>
-    <b>Name:</b> Gri-ffin</li>
+    <b>Name:</b> Yassine</li>
     <li>
     <b>Loves:</b> Anime, Manga, Coding and games 
     </li>
