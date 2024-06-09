@@ -1,25 +1,32 @@
-<h1 align="center">
+<h1 align="center">Hi 👋, I'm Yassine</h1>
+<h3 align="center">A software engineer from Morocco</h3>
 
-![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=Gri-ffin&show_icons=true&hide=stars&count_private=true&theme=dark)
+## 💬 Ask me about
+- Backend web development (Python, TypeScript, NodeJs)
+- Frontend web development (Vue.js, React.js, Angular, Svelte)
+- Docker
+- Mobile development (React native)
 
-</h1>
+## 📅 Hobbies
+- Solve programming problems
+- Watch anime
+- Read some manga
+- Play videogames
+- etc...
 
-<body>
-  <div>
-    <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>  
+## 📚 Learning
+- "Gotta rewrite it in rust"
+- Golang
+- Flutter
+- Machine learning and deep learning
+- Cloud stuff
     <li>
-    <b>Name:</b> Yassine</li>
-    <li>
-    <b>Loves:</b> Anime, Manga, Coding and games 
+      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
+      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
     </li>
     <li>
-    <b>Hobbies:</b> Tech Stuff, Web Development, AI and Breaking Stuff
+      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
+      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
     </li>
-    <li>
-    <b>Job:</b> Studying at school ¯\_(ツ)_/¯
-    </li>
-    <br>
-  </div>
-  <br />
-
-</body>
+  </ul>
+</div> -->
