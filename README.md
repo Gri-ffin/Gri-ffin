@@ -9,8 +9,7 @@
 
 ## 📅 Hobbies
 - Solve programming problems
-- Watch anime
-- Read some manga
+- learning new stuff
 - Play videogames
 - etc...
 
