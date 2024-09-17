@@ -7,7 +7,6 @@
 ## 📅 Hobbies
 - Solve programming problems
 - learning new stuff
-- Play videogames
 - etc...
 
 ## 📚 Learning
