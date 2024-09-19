@@ -2,7 +2,7 @@
 
 ### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 
-<h6> A human who find beauty in life <br> Appreciates human arts <br> He who has a why to live can bear almost any how. <br> What doesn't kill me makes me stronger. </h6>
+<h6> A human who finds beauty in life <br> Appreciates human arts <br> He who has a why to live can bear almost any how. <br> What doesn't kill me makes me stronger. </h6>
 
 <details>
 <summary><b>Skills</b></summary>
