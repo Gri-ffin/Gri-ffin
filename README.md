@@ -1,27 +1,64 @@
-```zsh
-> neofetch
-```
+<img src="./image.jpg" height="50%" width="50%"/>
 
-<img align="left" src="https://i.pinimg.com/736x/5b/a3/d6/5ba3d61349cf88a088bb77599da9f6d2.jpg" alt="Roman aquilla" width="320" />
+### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 
-```csharp
-Gri-ffin@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh
-Location: localhost
-Languages: JavaScript, TypeScript,
-           HTML, CSS,
-           Java, C#,
-           Python
-Learning:  Rust, Golang,
-           Flutter, Ruby
-Hobbies: Sleeping, Cooking, Reading
-commits: >3500
-position: Software engineer
-```
+<h6> A human who find beauty in life <br> Appreciates human arts <br> He who has a why to live can bear almost any how. <br> What doesn't kill me makes me stronger. </h6>
 
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
-</p>
+<details>
+<summary><b>Skills</b></summary>
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,java,python,php)](https://skillicons.dev)
+
+</div>
+   
+<summary><b>Learning</b></summary>
+<div>
+  
+[![Learning](https://skillicons.dev/icons?i=rust,go,dart,flutter,ruby)](https://skillicons.dev)
+  
+</div>
+</details>
+
+</details>
+<details>
+  <summary><b>Motto</b></summary>
+<div>
+
+- **"Fortuna audentes iuvat."**
+
+</div>
+</details>
+
+## 🍿 !notifs
+
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@gri-ffin?theme=rule34"  />
+</h6>
+
+<h6 align="center">
+  <a href="https://github.com/gri-ffin">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" style="margin-bottom: 5px;" /></a> 
+ </h6>
+
+##
+
+<details>
+  <summary><b>📊 My Github Stats</b></summary>
+
+<h6 align="center">
+
+  <img src="https://gh-readme-profile.vercel.app/api?username=gri-ffin&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
+
+</h6>
+</details>
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=gri-ffin&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+</details>
