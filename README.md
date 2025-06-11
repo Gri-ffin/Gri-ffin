@@ -25,7 +25,7 @@
   <summary><b>Motto</b></summary>
 <div>
 
-- **"Fortuna audentes iuvat."**
+- **"Sic parvis magna."**
 
 </div>
 </details>
