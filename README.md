@@ -15,7 +15,7 @@
 <summary><b>Learning</b></summary>
 <div>
   
-[![Learning](https://skillicons.dev/icons?i=rust,go,dart,flutter,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=rust,go,dart,flutter,ruby,zig)](https://skillicons.dev)
   
 </div>
 </details>
