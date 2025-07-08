@@ -1,6 +1,6 @@
-<img src="./image.jpg" height="50%" width="50%"/>
+<img src="./image.jpg" height="1000%" width="50%"/>
 
-### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
+### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="50%" width="5%"/>
 
 <h6> A human who finds beauty in life <br> Appreciates human arts <br> He who has a why to live can bear almost any how. <br> What doesn't kill me makes me stronger. </h6>
 
