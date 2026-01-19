@@ -4,7 +4,7 @@ A software engineer with broad interests across disciplines.
 
 I enjoy exploring ideas in code, tincker with hardware, make art, and dive into physics and mathematics, not as an expert, but as a learner who likes connecting concepts across fields.
 
-![:Gri-ffin](https://count.getloli.com/@:Gri-ffin)
+<!-- ![:Gri-ffin](https://count.getloli.com/@:Gri-ffin) -->
 
 ## Tools
 
