@@ -1,23 +1,110 @@
-<!--  # Hi, I'm Gri-ffin
+<div align="center">
 
-A software engineer with broad interests across disciplines.
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Accessing+the+Wired...;Close+the+world.+Open+the+nExt." alt="Typing SVG" />
 
-I enjoy exploring ideas in code, tincker with hardware, make art, and dive into physics and mathematics, not as an expert, but as a learner who likes connecting concepts across fields.
+<br/>
 
-<!-- ![:Gri-ffin](https://count.getloli.com/@:Gri-ffin) -->
+<!-- Moe Counter — theme options: moebooru, rule34, gelbooru, konachan, yande, danbooru, derpbooru, safebooru -->
+<a href="https://github.com/Gri-ffin">
+  <img src="https://count.getloli.com/@Gri-ffin?name=Gri-ffin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count" />
+</a>
 
-<!-- ## Tools
+<br/><br/>
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://neovim.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/> </a> <a href="https://archlinux.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="github" width="40" height="40"/> </a>
+[![GitHub followers](https://img.shields.io/github/followers/Gri-ffin?style=for-the-badge&color=00ff9c&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Gri-ffin)
+[![GitHub Stars](https://img.shields.io/github/stars/Gri-ffin?style=for-the-badge&color=ff79c6&labelColor=0d1117&label=STARS)](https://github.com/Gri-ffin)
 
-## Technology Stack
+<img src="https://media1.tenor.com/m/mOrT7Qw84_YAAAAC/kurisu-confused-makise.gif" width="180" alt="Kurisu loading..." />
 
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/></a><a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> -->
+</div>
 
-<!-- ## Stats
+---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Gri-ffin&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Gri-ffin" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gri-ffin&theme=material-palenight&hide_border=false" alt="Gri-ffin" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gri-ffin&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Gri-ffin" /></p>
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Gri-ffin&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
+## `$ whoami`
+
+</div>
+
+```
+  name        →  Gri-ffin
+  location    →  The Wired
+  interests   →  [ systems programming,
+                   Mathematics,
+                   Physics,
+                   making machines dream ]
+```
+
+---
+
+<div align="center">
+
+## `// tech_stack`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff79c6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=8be9fd)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=ff79c6)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ff79c6)
+
+**Frameworks & Tools**
+
+![Arch Linux](https://img.shields.io/badge/ArchLinux-0d1117?style=for-the-badge&logo=archlinux&logoColor=ff79c6)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143)
+
+**Currently Experimenting**
+
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=for-the-badge&logo=zig&logoColor=f7a41d)
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Gri-ffin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF9C&ring=ff79c6&fire=ff79c6&currStreakLabel=00FF9C&sideLabels=c0caf5&dates=c0caf5&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Gri-ffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<!-- 3D graph (left) and activity plot (right) side by side -->
+<table>
+<tr>
+
+<td align="center">
+
+[![Gri-ffin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gri-ffin&bg_color=0d1117&color=00FF9C&line=ff79c6&point=ffffff&area=true&hide_border=true&area_color=00FF9C)](https://github.com/Gri-ffin)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                "99% of science is boring."           ║
+║                                    — Makise Kurisu   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- Kurisu: holding instant noodles — it's Makise Monday -->
+<img src="https://media1.tenor.com/m/pYIOPCPzg_kAAAAC/makise-kurisu-steins-gate.gif" width="160" alt="Makise Monday" />
+
+</div>
