@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Accessing+the+Wired...;Close+the+world.+Open+the+nExt." alt="" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Gri-ffin?style=for-the-badge&color=00ff9c&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Gri-ffin)
-[![GitHub Stars](https://img.shields.io/github/stars/Gri-ffin?style=for-the-badge&color=ff79c6&labelColor=0d1117&label=STARS)](https://github.com/Gri-ffin)
-
 </div>
 
 ---
