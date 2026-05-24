@@ -8,7 +8,6 @@
 
 ```
   name        →  Gri-ffin
-  location    →  Tokyo, Japan
   interests   →  [ systems programming, mathematics, physics ]
 ```
 
